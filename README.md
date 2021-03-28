@@ -5,7 +5,7 @@ This short data analysis on Airbnb data from Berlin was done as part of the Data
 
 ---
 
-### Libraries used:
+### Libraries used
 + Pandas
 + Numpy
 + Matplotlib

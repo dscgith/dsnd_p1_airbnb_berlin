@@ -34,7 +34,7 @@ The collection of datasets was downloaded from http://insideairbnb.com/get-the-d
 | neighbourhoods.csv | Neighbourhood list for geo filter. Sourced from city or open source GIS files |
 | neighbourhoods.geojson | GeoJSON file of neighbourhoods of the city |
 
-Of those files only the listings dataset was analyzed in this notebook.
+Of those files only the listings.csv dataset was analyzed in this notebook.
 
 ---
 

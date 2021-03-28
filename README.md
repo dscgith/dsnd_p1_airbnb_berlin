@@ -50,5 +50,6 @@ A short summary of the results from the analysis:
     * The plots show a rather uniform distribution on the 10-300\$ range across the city. For prices over 300\$ however, those listings are more or less focused in the city center region.
 3. What other factors influence the price?
     * The most important factors are related to the size of the accomodation. Strong negative correlation can be seen when it comes to sharing space.
-
+    * Of the tested sklearn models a Random Forest Regressor performed best with a R2 score of 0.63
+    
 ---

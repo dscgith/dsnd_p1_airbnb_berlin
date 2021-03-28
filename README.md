@@ -35,6 +35,7 @@ The collection of datasets was downloaded from http://insideairbnb.com/get-the-d
 | neighbourhoods.geojson | GeoJSON file of neighbourhoods of the city |
 
 Of those files only the listings.csv dataset was analyzed in this notebook.
+This file can be found in the repository as .rar-Archive.
 
 ---
 

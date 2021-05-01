@@ -10,7 +10,7 @@ This short data analysis on Airbnb data from Berlin was done as part of the Data
 + Numpy
 + Matplotlib
 + Seaborn
-+ sklearns
++ sklearn
 
 Python Version 3.7.9 was used for this project
 
